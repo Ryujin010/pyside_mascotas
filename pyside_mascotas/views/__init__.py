@@ -1,0 +1,1 @@
+# Este archivo hace que la carpeta views sea un paquete Python
